@@ -7,7 +7,7 @@ function MyApp({ Component, pageProps }) {
     <>
       <Fragment>
         <Head>
-          <title>Fifi</title>
+          <title>Codeflow beta</title>
           <meta name='description' content='A test' />
         </Head>
 
